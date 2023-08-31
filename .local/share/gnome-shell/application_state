@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-language-selector.desktop" score="1" last-seen="1693047582"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1693041028"/>
+    <application id="google-chrome.desktop" score="1012" last-seen="1693069470"/>
+    <application id="anydesk.desktop" score="2" last-seen="1693064916"/>
+    <application id="gnome-control-center.desktop" score="14" last-seen="1693047573"/>
+    <application id="org.gnome.Calendar.desktop" score="3" last-seen="1693047508"/>
+    <application id="org.gnome.eog.desktop" score="1" last-seen="1693045894"/>
+    <application id="org.gnome.Nautilus.desktop" score="3" last-seen="1693066931"/>
+    <application id="apport-gtk.desktop" score="14" last-seen="1693045176"/>
+    <application id="update-manager.desktop" score="1" last-seen="1693041695"/>
+    <application id="snap-store_ubuntu-software.desktop" score="8" last-seen="1693044620"/>
+    <application id="gnome-initial-setup.desktop" score="8" last-seen="1693039145"/>
+    <application id="rhythmbox.desktop" score="2" last-seen="1693039192"/>
+    <application id="org.gnome.Terminal.desktop" score="566" last-seen="1693069462"/>
+    <application id="firefox_firefox.desktop" score="35" last-seen="1693039884"/>
+    <application id="thunderbird.desktop" score="2" last-seen="1693039232"/>
+    <application id="code.desktop" score="100" last-seen="1693069467"/>
+    <application id="org.gnome.gedit.desktop" score="8" last-seen="1693069071"/>
+  </context>
+</application-state>

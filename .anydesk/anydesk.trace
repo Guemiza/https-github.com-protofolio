@@ -1,0 +1,185 @@
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - * AnyDesk Linux Startup *
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - * Build 20230803142204
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - * Prefix ad
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - 
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2023-08-26 10:20:38.838         ad   main  56209  56209                                  main - Found GLib Version: 2.72.
+   info 2023-08-26 10:20:38.858         ad   main  56209  56209                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 10:20:38.858         ad   main  56209  56209                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+explode 2023-08-26 10:20:38.860       tray   main  56209  56209                   unix_base.x11_tools - Cannot open display
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - * AnyDesk Linux Startup *
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - * Build 20230803142204
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - * Prefix ad
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - 
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2023-08-26 10:20:51.641         ad   main  56276  56276                                  main - Found GLib Version: 2.72.
+   info 2023-08-26 10:20:51.654         ad   main  56276  56276                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 10:20:51.655         ad   main  56276  56276                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 10:20:51.656         ad   main  56276  56276             app.named_process_starter - Spawning new process with: UID: 1000, DPY: , ID: 1, SEAT: 30287568
+   info 2023-08-26 10:20:51.657         ad   main  56276  56276                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 10:20:51.657         ad   main  56276  56276                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 10:20:51.657         ad   main  56276  56276                                  main - Starting frontend process (56276).
+warning 2023-08-26 10:20:51.664         ad   main  56279  56279             unix_base.x11.xauth_magic - XAUTHORITY is not set, trying the default location
+  error 2023-08-26 10:20:51.664         ad   main  56279  56279             unix_base.x11.xauth_magic - Cannot find Xauthority file despite all attempts, backend will probably fail
+   info 2023-08-26 10:20:51.669   frontend   main  56276  56276                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2023-08-26 10:20:51.669   frontend   main  56276  56276                           gui.gui_app - Using std-resolution bitmaps.
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - * AnyDesk Linux Startup *
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - * Build 20230803142204
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - * Prefix ad
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - 
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2023-08-26 10:20:51.677         ad   main  56279  56279                                  main - Found GLib Version: 2.72.
+   info 2023-08-26 10:20:51.689         ad   main  56279  56279                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 10:20:51.690         ad   main  56279  56279                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 10:20:51.692       tray   main  56279  56279                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2023-08-26 10:20:51.692       tray   main  56279  56279                           gui.gui_app - Using std-resolution bitmaps.
+warning 2023-08-26 10:20:51.712   frontend   main  56276  56276                          account_info - Could not read account info from config.
+warning 2023-08-26 10:20:51.712   frontend   main  56276  56276                          account_info - Could not read account info from config.
+   info 2023-08-26 10:20:51.712   frontend   main  56276  56276                       base.signal.hub - 8 threads.
+warning 2023-08-26 10:20:51.713   frontend   main  56276  56276        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 10:20:51.713   frontend   main  56276  56276                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+   info 2023-08-26 10:20:51.716   frontend   timr  56276  56285          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-08-26 10:20:51.734       tray   main  56279  56279                       base.signal.hub - 1 threads.
+   info 2023-08-26 10:20:51.734       tray   main  56279  56279                    app.tunnel_ft_comp - Ready.
+   info 2023-08-26 10:20:51.777       tray   ctrl  56279  56286                      unix_app.control - Control startup.
+  error 2023-08-26 10:20:51.778       tray   ctrl  56279  56286              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2023-08-26 10:20:51.785       tray   wrk0  56279  56287              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2023-08-26 10:20:51.785       tray   wrk0  56279  56287                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2023-08-26 10:20:51.785       tray   wrk0  56279  56287              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2023-08-26 10:20:51.785       tray   wrk0  56279  56287                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2023-08-26 10:20:51.786       tray   wrk0  56279  56287                      unix_app.control - Dropping out of date license response.
+warning 2023-08-26 10:20:51.786       tray   wrk0  56279  56287        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+   info 2023-08-26 10:20:51.831   frontend filetransfer  56276  56296                       base.task_queue - Waiting for commands.
+   info 2023-08-26 10:20:51.908       tray   wrk0  56279  56287                      unix_app.control - Received new license info. (free-1, 28)
+   info 2023-08-26 10:20:51.927   frontend   ctrl  56276  56314                     unix_app.frontend - Frontend startup.
+   info 2023-08-26 10:20:51.927   frontend   ctrl  56276  56314                     unix_app.frontend - Logging the frontend in.
+warning 2023-08-26 10:20:51.934   frontend   wrk1  56276  56316        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 10:20:51.934   frontend   wrk1  56276  56316                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+warning 2023-08-26 10:20:52.103   frontend   ctrl  56276  56314        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 10:20:52.103   frontend   ctrl  56276  56314                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+   info 2023-08-26 10:20:52.244   frontend    x11  56276  56281                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2023-08-26 10:20:52.244   frontend    x11  56276  56281                     base.monitor_info - Monitor 0: w/h : 1360/768
+   info 2023-08-26 10:20:52.244   frontend    x11  56276  56281                     base.monitor_info - Monitor 0 output=33
+  error 2023-08-26 10:20:52.244   frontend    x11  56276  56281                     base.monitor_info - Could not find a primary monitor
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - * AnyDesk Linux Startup *
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - * Build 20230803142204
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - * Prefix ad
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - 
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2023-08-26 10:21:55.875         ad   main  56364  56364                                  main - Found GLib Version: 2.72.
+   info 2023-08-26 10:21:55.889         ad   main  56364  56364                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 10:21:55.889         ad   main  56364  56364                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 10:21:55.889         ad   main  56364  56364                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 10:21:55.889         ad   main  56364  56364                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 10:21:55.889         ad   main  56364  56364                                  main - Starting frontend process (56364).
+   info 2023-08-26 10:21:55.892   frontend   main  56364  56364                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2023-08-26 10:21:55.893   frontend   main  56364  56364                           gui.gui_app - Using std-resolution bitmaps.
+warning 2023-08-26 10:21:55.925   frontend   main  56364  56364                          account_info - Could not read account info from config.
+warning 2023-08-26 10:21:55.926   frontend   main  56364  56364                          account_info - Could not read account info from config.
+   info 2023-08-26 10:21:55.926   frontend   main  56364  56364                       base.signal.hub - 8 threads.
+warning 2023-08-26 10:21:55.926   frontend   main  56364  56364        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 10:21:55.926   frontend   main  56364  56364                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+   info 2023-08-26 10:21:55.929   frontend   timr  56364  56368          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-08-26 10:21:55.993   frontend filetransfer  56364  56375                       base.task_queue - Waiting for commands.
+   info 2023-08-26 10:21:56.054   frontend   ctrl  56364  56393                     unix_app.frontend - Frontend startup.
+   info 2023-08-26 10:21:56.054   frontend   ctrl  56364  56393                     unix_app.frontend - Logging the frontend in.
+warning 2023-08-26 10:21:56.062   frontend   wrk1  56364  56395        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 10:21:56.062   frontend   wrk1  56364  56395                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+warning 2023-08-26 10:21:56.159   frontend   ctrl  56364  56393        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 10:21:56.159   frontend   ctrl  56364  56393                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+   info 2023-08-26 10:21:56.301   frontend    x11  56364  56367                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2023-08-26 10:21:56.301   frontend    x11  56364  56367                     base.monitor_info - Monitor 0: w/h : 1360/768
+   info 2023-08-26 10:21:56.301   frontend    x11  56364  56367                     base.monitor_info - Monitor 0 output=33
+  error 2023-08-26 10:21:56.301   frontend    x11  56364  56367                     base.monitor_info - Could not find a primary monitor
+  error 2023-08-26 11:02:17.154       tray   wrk0  56279  56287                      unix_app.control - Service connection lost.
+   info 2023-08-26 11:02:17.154       tray   ctrl  56279  56286                      unix_app.control - Control stop.
+   info 2023-08-26 11:02:17.154       tray   ctrl  56279  56286                    app.tunnel_ft_comp - Stopping file component.
+   info 2023-08-26 11:02:17.154       tray   main  56279  56279                      unix_app.control - Got quit signal.
+   info 2023-08-26 15:43:18.276         ad   main   1408   1408                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - * AnyDesk Linux Startup *
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - * Build 20230803142204
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - * Prefix ad
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - 
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2023-08-26 15:43:18.279         ad   main   1408   1408                                  main - Found GLib Version: 2.72.
+   info 2023-08-26 15:43:18.328         ad   main   1408   1408                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 15:43:18.329         ad   main   1408   1408                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 15:43:21.156       tray   main   1408   1408                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2023-08-26 15:43:21.156       tray   main   1408   1408                           gui.gui_app - Using std-resolution bitmaps.
+   info 2023-08-26 15:43:21.206       tray   main   1408   1408                       base.signal.hub - 1 threads.
+   info 2023-08-26 15:43:21.206       tray   main   1408   1408                    app.tunnel_ft_comp - Ready.
+   info 2023-08-26 15:43:21.317       tray   ctrl   1408   1789                      unix_app.control - Control startup.
+  error 2023-08-26 15:43:21.331       tray   ctrl   1408   1789              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2023-08-26 15:43:21.331       tray   wrk0   1408   1790              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2023-08-26 15:43:21.331       tray   wrk0   1408   1790                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2023-08-26 15:43:21.331       tray   wrk0   1408   1790              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2023-08-26 15:43:21.331       tray   wrk0   1408   1790                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2023-08-26 15:43:21.332       tray   wrk0   1408   1790                      unix_app.control - Dropping out of date license response.
+warning 2023-08-26 15:43:21.332       tray   wrk0   1408   1790        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+   info 2023-08-26 15:45:11.879       tray   wrk0   1408   1790                      unix_app.control - Received new license info. (free-1, 66)
+   info 2023-08-26 15:45:13.080       tray   wrk0   1408   1790                      unix_app.control - Received new license info. (free-1, 28)
+   info 2023-08-26 15:48:32.135       tray   main   1408   1408             app.named_process_starter - Spawning new process with: UID: 1000, DPY: , ID: 1, SEAT: 47801008
+warning 2023-08-26 15:48:32.142       tray   main   3389   3389             unix_base.x11.xauth_magic - XAUTHORITY is not set, trying the default location
+  error 2023-08-26 15:48:32.143       tray   main   3389   3389             unix_base.x11.xauth_magic - Cannot find Xauthority file despite all attempts, backend will probably fail
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - * AnyDesk Linux Startup *
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - * Build 20230803142204
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - * Prefix ad
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - 
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2023-08-26 15:48:32.155         ad   main   3389   3389                                  main - Found GLib Version: 2.72.
+   info 2023-08-26 15:48:32.168         ad   main   3389   3389                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 15:48:32.168         ad   main   3389   3389                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 15:48:32.168         ad   main   3389   3389                       app.common_path - user_data_dir = /home/devops/.anydesk, logged_in_user_data_dir = /home/devops/.anydesk, current_home = /home/devops
+
+   info 2023-08-26 15:48:32.168         ad   main   3389   3389                       app.common_path - initialized user = /home/devops/.anydesk, system = /etc/anydesk
+   info 2023-08-26 15:48:32.168         ad   main   3389   3389                                  main - Starting frontend process (3389).
+   info 2023-08-26 15:48:32.171   frontend   main   3389   3389                           gui.gui_app - DPI scaling: 1,00 / 1,00
+   info 2023-08-26 15:48:32.171   frontend   main   3389   3389                           gui.gui_app - Using std-resolution bitmaps.
+warning 2023-08-26 15:48:32.203   frontend   main   3389   3389                          account_info - Could not read account info from config.
+warning 2023-08-26 15:48:32.203   frontend   main   3389   3389                          account_info - Could not read account info from config.
+   info 2023-08-26 15:48:32.203   frontend   main   3389   3389                       base.signal.hub - 8 threads.
+warning 2023-08-26 15:48:32.204   frontend   main   3389   3389        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 15:48:32.205   frontend   main   3389   3389                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+   info 2023-08-26 15:48:32.208   frontend   timr   3389   3393          base.signal.local.timer_impl - Initialized master timer.
+   info 2023-08-26 15:48:32.290   frontend filetransfer   3389   3400                       base.task_queue - Waiting for commands.
+   info 2023-08-26 15:48:32.379   frontend   ctrl   3389   3418                     unix_app.frontend - Frontend startup.
+   info 2023-08-26 15:48:32.379   frontend   ctrl   3389   3418                     unix_app.frontend - Logging the frontend in.
+warning 2023-08-26 15:48:32.408   frontend   wrk1   3389   3420        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 15:48:32.408   frontend   wrk1   3389   3420                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+warning 2023-08-26 15:48:32.561   frontend   ctrl   3389   3418        base.signal.global.shared_file - open (/var/lib/AccountsService/users/devops) failed (13): Permission denied 
+warning 2023-08-26 15:48:32.561   frontend   ctrl   3389   3418                         app.user_info - Could not update user image (An unknown error occurred.). Defaulting.
+   info 2023-08-26 15:48:32.696   frontend    x11   3389   3392                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2023-08-26 15:48:32.696   frontend    x11   3389   3392                     base.monitor_info - Monitor 0: w/h : 1360/768
+   info 2023-08-26 15:48:32.696   frontend    x11   3389   3392                     base.monitor_info - Monitor 0 output=33
+  error 2023-08-26 15:48:32.696   frontend    x11   3389   3392                     base.monitor_info - Could not find a primary monitor

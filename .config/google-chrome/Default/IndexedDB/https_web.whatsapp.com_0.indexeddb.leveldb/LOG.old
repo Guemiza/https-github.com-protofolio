@@ -1,0 +1,19 @@
+2023/08/26-13:31:30.583 16cf Creating DB /home/devops/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/08/26-13:31:30.597 16cf Reusing MANIFEST /home/devops/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/26-13:31:30.629 16d2 Level-0 table #5: started
+2023/08/26-13:31:30.632 16d2 Level-0 table #5: 7443 bytes OK
+2023/08/26-13:31:30.636 16d2 Delete type=0 #3
+2023/08/26-13:31:30.636 16d2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/26-13:31:31.775 16dd Level-0 table #7: started
+2023/08/26-13:31:31.778 16dd Level-0 table #7: 17464 bytes OK
+2023/08/26-13:31:31.781 16dd Delete type=0 #4
+2023/08/26-13:31:31.782 16d0 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/26-13:44:22.037 16cf Level-0 table #9: started
+2023/08/26-13:44:22.075 16cf Level-0 table #9: 1090996 bytes OK
+2023/08/26-13:44:22.079 16cf Delete type=0 #6
+2023/08/26-13:57:28.003 16d0 Compacting 1@0 + 1@1 files
+2023/08/26-13:57:28.044 16d0 Generated table #10@0: 28227 keys, 653116 bytes
+2023/08/26-13:57:28.044 16d0 Compacted 1@0 + 1@1 files => 653116 bytes
+2023/08/26-13:57:28.046 16d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/26-13:57:28.046 16d0 Delete type=2 #7
+2023/08/26-13:57:28.046 16d0 Delete type=2 #9

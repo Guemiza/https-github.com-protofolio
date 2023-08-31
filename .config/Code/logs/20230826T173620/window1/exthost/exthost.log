@@ -1,0 +1,139 @@
+2023-08-26 17:36:23.590 [info] Extension host with pid 8267 started
+2023-08-26 17:36:24.162 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-26 17:36:24.163 [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: true, activationEvent: '*'
+2023-08-26 17:36:24.618 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-26 17:36:25.311 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-26 17:36:25.313 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-26 17:36:26.173 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-26 17:36:27.217 [info] Eager extensions activated
+2023-08-26 17:36:27.438 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:27.441 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:27.444 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:27.612 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:27.613 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:30.460 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-26 17:36:30.461 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-26 17:36:30.462 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-26 17:36:44.516 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-26 17:37:24.667 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+2023-08-26 17:37:25.027 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: No
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2023-08-26 17:37:25.061 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2023-08-26 17:37:25.084 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2023-08-26 17:37:25.086 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2023-08-26 17:37:25.102 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2023-08-26 17:37:25.175 [warning] Using default string since no string found in i18n bundle that has the key: Use a Dockerfile
+2023-08-26 17:37:25.175 [warning] Using default string since no string found in i18n bundle that has the key: Use .NET SDK
+2023-08-26 17:37:25.175 [warning] Using default string since no string found in i18n bundle that has the key: No grouping
+2023-08-26 17:37:25.175 [warning] Using default string since no string found in i18n bundle that has the key: Sort by newest
+2023-08-26 17:37:25.175 [warning] Using default string since no string found in i18n bundle that has the key: Sort alphabetically by label
+2023-08-26 17:37:25.176 [warning] Using default string since no string found in i18n bundle that has the key: Value used to associate containers launched by a 'docker-compose up' command
+2023-08-26 17:37:25.176 [warning] Using default string since no string found in i18n bundle that has the key: Individual Containers
+2023-08-26 17:37:25.176 [warning] Using default string since no string found in i18n bundle that has the key: Others
+2023-08-26 17:37:25.177 [warning] Using default string since no string found in i18n bundle that has the key: Choose a project file
+2023-08-26 17:37:25.177 [warning] Using default string since no string found in i18n bundle that has the key: No C# or F# project files were found in the workspace.
+2023-08-26 17:37:25.177 [warning] Using default string since no string found in i18n bundle that has the key: Choose a package.json file
+2023-08-26 17:37:25.177 [warning] Using default string since no string found in i18n bundle that has the key: No package.json files were found in the workspace.
+2023-08-26 17:37:25.178 [warning] Using default string since no string found in i18n bundle that has the key: Overwrite File
+2023-08-26 17:37:25.178 [warning] Using default string since no string found in i18n bundle that has the key: Skip File
+2023-08-26 17:37:25.178 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Generic Docker Registry
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: (Preview)
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Connect any generic private registry that supports the "Docker V2" api.
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Connect Docker Registry
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Enter the URL for the registry
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Sign in to GitLab
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: GitLab Personal Access Token (requires `api` or `read_api` scope)
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Sign in to Docker Hub
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Visit hub.docker.com to sign up for a Docker ID
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Enter your Docker ID
+2023-08-26 17:37:25.185 [warning] Using default string since no string found in i18n bundle that has the key: Enter your password or personal access token
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: Redis is an open source key-value store that functions as a data structure server.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: Ubuntu is a Debian-based Linux operating system based on free software.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: The WordPress rich content management system can utilize plugins, widgets, and themes.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: MySQL is a widely used, open-source relational database management system (RDBMS).
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: MongoDB document databases provide high availability and easy scalability.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: The official build of CentOS.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: Node.js is a JavaScript-based platform for server-side and networking applications.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: Official build of Nginx.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: The PostgreSQL object-relational database system provides reliability and data integrity.
+2023-08-26 17:37:25.197 [warning] Using default string since no string found in i18n bundle that has the key: ASP.NET is an open source server-side Web application framework
+2023-08-26 17:37:25.277 [warning] Using default string since no string found in i18n bundle that has the key: Containers
+2023-08-26 17:37:25.277 [warning] Using default string since no string found in i18n bundle that has the key: Configure containers explorer
+2023-08-26 17:37:25.278 [warning] Using default string since no string found in i18n bundle that has the key: Networks
+2023-08-26 17:37:25.278 [warning] Using default string since no string found in i18n bundle that has the key: Configure networks explorer
+2023-08-26 17:37:25.279 [warning] Using default string since no string found in i18n bundle that has the key: Images
+2023-08-26 17:37:25.279 [warning] Using default string since no string found in i18n bundle that has the key: Configure images explorer
+2023-08-26 17:37:25.279 [warning] Using default string since no string found in i18n bundle that has the key: Sort by image size
+2023-08-26 17:37:25.281 [warning] Using default string since no string found in i18n bundle that has the key: Registries
+2023-08-26 17:37:25.281 [warning] Using default string since no string found in i18n bundle that has the key: Connected Registries
+2023-08-26 17:37:25.281 [warning] Using default string since no string found in i18n bundle that has the key: Volumes
+2023-08-26 17:37:25.281 [warning] Using default string since no string found in i18n bundle that has the key: Configure volumes explorer
+2023-08-26 17:37:25.282 [warning] Using default string since no string found in i18n bundle that has the key: Contexts
+2023-08-26 17:37:25.282 [warning] Using default string since no string found in i18n bundle that has the key: Configure Docker Contexts Explorer
+2023-08-26 17:37:25.728 [warning] Using default string since no string found in i18n bundle that has the key: Connect Registry...
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Read Extension Documentation
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Watch Extension Tutorial Videos
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Get Started with Docker Tutorial
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Open Docker Extension Walkthrough
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Review Issues
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Report Issue
+2023-08-26 17:37:25.737 [warning] Using default string since no string found in i18n bundle that has the key: Docker Installation
+2023-08-26 17:37:25.956 [warning] Using default string since no string found in i18n bundle that has the key: Failed to connect. Is {0} running?
+2023-08-26 17:37:25.956 [warning] Using default string since no string found in i18n bundle that has the key:   Error: {0}
+2023-08-26 17:37:25.956 [warning] Using default string since no string found in i18n bundle that has the key: Additional Troubleshooting...
+2023-08-26 17:37:25.959 [warning] Using default string since no string found in i18n bundle that has the key: Failed to connect. Is {0} running?
+2023-08-26 17:37:25.959 [warning] Using default string since no string found in i18n bundle that has the key:   Error: {0}
+2023-08-26 17:37:25.959 [warning] Using default string since no string found in i18n bundle that has the key: Additional Troubleshooting...
+2023-08-26 17:37:26.017 [warning] Using default string since no string found in i18n bundle that has the key: Failed to set up event listener: {0}
+2023-08-26 18:00:38.605 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-08-26 18:04:30.942 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2023-08-26 18:04:30.943 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2023-08-26 18:04:30.944 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2023-08-26 18:04:30.944 [info] ExtensionService#_doActivateExtension ms-vscode.azure-account, startup: false, activationEvent: 'onTaskType:func', root cause: ms-azuretools.vscode-azurefunctions
+2023-08-26 18:04:31.660 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-azureresourcegroups, startup: false, activationEvent: 'onTaskType:func', root cause: ms-azuretools.vscode-azurefunctions
+2023-08-26 18:04:31.742 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: No
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2023-08-26 18:04:31.766 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2023-08-26 18:04:31.783 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2023-08-26 18:04:31.784 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2023-08-26 18:04:31.802 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2023-08-26 18:04:31.942 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-azurefunctions, startup: false, activationEvent: 'onTaskType:func'
+2023-08-26 18:04:32.256 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: No
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2023-08-26 18:04:32.276 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2023-08-26 18:04:32.277 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2023-08-26 18:04:32.277 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2023-08-26 18:04:32.295 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2023-08-26 18:04:32.296 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2023-08-26 18:04:32.308 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2023-08-26 18:04:32.310 [warning] Using default string since no string found in i18n bundle that has the key: "registerAzureUtilsExtensionVariables" must be called before using the vscode-azext-azureutilsa package.
+2023-08-26 18:04:32.310 [warning] Using default string since no string found in i18n bundle that has the key: Sign in to Azure...
+2023-08-26 18:04:32.310 [warning] Using default string since no string found in i18n bundle that has the key: Create an Azure Account...
+2023-08-26 18:04:32.310 [warning] Using default string since no string found in i18n bundle that has the key: Create an Azure for Students Account...
+2023-08-26 18:04:32.310 [warning] Using default string since no string found in i18n bundle that has the key: Select Subscriptions...
+2023-08-26 18:04:32.385 [warning] Using default string since no string found in i18n bundle that has the key: "registerGitHubExtensionVariables" must be called before using the vscode-azext-github package.
+2023-08-26 18:04:32.389 [warning] Using default string since no string found in i18n bundle that has the key: $(sync) Load More
+2023-08-26 18:04:32.390 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureappservice package.

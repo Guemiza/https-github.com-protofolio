@@ -1,0 +1,9 @@
+{
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "editor.accessibilitySupport": "off",
+    "workbench.colorTheme": "Default Light+",
+    "github.allowUnsafeSSL": true,
+    "github.autoPublish": true,
+    "git.autofetch": true
+}

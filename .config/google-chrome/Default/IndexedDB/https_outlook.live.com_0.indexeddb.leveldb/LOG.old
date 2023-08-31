@@ -1,0 +1,17 @@
+2023/08/26-12:18:44.070 16cf Reusing MANIFEST /home/devops/.config/google-chrome/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/26-12:18:44.070 16cf Recovering log #6
+2023/08/26-12:18:44.071 16cf Reusing old log /home/devops/.config/google-chrome/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/000006.log 
+2023/08/26-12:18:44.625 16cf Level-0 table #11: started
+2023/08/26-12:18:44.628 16cf Level-0 table #11: 1778 bytes OK
+2023/08/26-12:18:44.632 16cf Delete type=0 #6
+2023/08/26-12:18:44.633 16cf Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/26-12:18:44.633 16cf Level-0 table #13: started
+2023/08/26-12:18:44.637 16cf Level-0 table #13: 486 bytes OK
+2023/08/26-12:18:44.640 16cf Delete type=0 #10
+2023/08/26-12:18:44.640 16cf Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 177 : 0
+2023/08/26-12:18:44.640 16cf Compacting 1@0 + 1@1 files
+2023/08/26-12:18:44.642 16cf Generated table #14@0: 37 keys, 545 bytes
+2023/08/26-12:18:44.643 16cf Compacted 1@0 + 1@1 files => 545 bytes
+2023/08/26-12:18:44.645 16cf compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/26-12:18:44.645 16cf Delete type=2 #13
+2023/08/26-12:18:44.645 16cf Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 177 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

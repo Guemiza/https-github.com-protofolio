@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/devops/google-chrome-stable_current_amd64.deb" added="2023-08-26T08:46:29.851277Z" modified="2023-08-26T08:46:30.134932Z" visited="2023-08-26T08:46:29.851279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-08-26T08:46:29.851294Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-08-26T08:46:30.134930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devops/Downloads/anydesk_6.3.0-1_amd64.deb" added="2023-08-26T09:10:25.780209Z" modified="2023-08-26T09:10:25.780215Z" visited="2023-08-26T09:10:25.780210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-08-26T09:10:25.780212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devops/Downloads/9c558f72-30de-4857-af0f-df112938a858.jpeg" added="2023-08-26T10:10:04.703825Z" modified="2023-08-26T10:10:04.703831Z" visited="2023-08-26T10:10:04.703826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-26T10:10:04.703829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/devops/Downloads/135f96e8-1b4e-41f2-9e65-7d6678ea809f.jpeg" added="2023-08-26T10:10:07.666732Z" modified="2023-08-26T10:10:47.032672Z" visited="2023-08-26T10:10:07.666733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-08-26T10:10:07.666736Z" count="1"/>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-08-26T10:10:47.032669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

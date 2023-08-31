@@ -1,0 +1,6 @@
+2023-08-26 17:36:12.964 [warning] /home/devops/.ssh/config: ENOENT: no such file or directory, open '/home/devops/.ssh/config'
+2023-08-26 17:36:12.966 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/devops/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp'
+2023-08-26 17:36:13.138 [info] Looking for git repository
+2023-08-26 17:36:13.138 [info] Found 0 repositories during activation
+2023-08-26 17:36:13.138 [info] Git repository found, initializing review manager and pr tree view.
+2023-08-26 17:36:13.141 [info] Registering git provider

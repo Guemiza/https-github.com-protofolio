@@ -1,0 +1,4 @@
+[INFO] [auth] [2023-08-26T16:30:22.224Z] Invalid copilot token: missing token: 403 
+[INFO] [auth] [2023-08-26T16:32:22.173Z] Invalid copilot token: missing token: 403 
+[ERROR] [auth] [2023-08-26T16:33:23.830Z] Error while sending notification: (Error) Canceled
+[ERROR] [default] [2023-08-26T16:33:23.833Z] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"

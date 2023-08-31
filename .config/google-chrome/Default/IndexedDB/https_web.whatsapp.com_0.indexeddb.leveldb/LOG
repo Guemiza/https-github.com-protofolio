@@ -1,0 +1,30 @@
+2023/08/26-16:54:00.952 a27 Reusing MANIFEST /home/devops/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/26-16:54:00.952 a27 Recovering log #8
+2023/08/26-16:54:00.962 a27 Reusing old log /home/devops/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000008.log 
+2023/08/26-16:54:34.827 a28 Level-0 table #13: started
+2023/08/26-16:54:34.883 a28 Level-0 table #13: 1241580 bytes OK
+2023/08/26-16:54:34.887 a28 Delete type=0 #8
+2023/08/26-16:54:34.891 a28 Compacting 1@0 + 1@1 files
+2023/08/26-16:54:34.993 a28 Generated table #14@0: 43937 keys, 1755618 bytes
+2023/08/26-16:54:34.993 a28 Compacted 1@0 + 1@1 files => 1755618 bytes
+2023/08/26-16:54:34.996 a28 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/26-16:54:42.588 a34 Compacting 1@1 + 1@2 files
+2023/08/26-16:54:42.691 a34 Generated table #15@1: 23638 keys, 1587040 bytes
+2023/08/26-16:54:42.691 a34 Compacted 1@1 + 1@2 files => 1587040 bytes
+2023/08/26-16:54:42.698 a34 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/26-16:54:42.699 a34 Delete type=2 #13
+2023/08/26-16:54:42.699 a34 Delete type=2 #10
+2023/08/26-17:11:03.695 a28 Level-0 table #17: started
+2023/08/26-17:11:03.721 a28 Level-0 table #17: 924686 bytes OK
+2023/08/26-17:11:03.726 a28 Delete type=2 #14
+2023/08/26-17:11:03.726 a28 Delete type=2 #5
+2023/08/26-17:11:03.726 a28 Delete type=0 #12
+2023/08/26-17:11:03.727 a28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/26-17:11:03.727 a28 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x03!\x06\x09\xff\xf9\xca\xb5\xc5l}\x05A\x00\x03\x00\x00\x00\x00\x00P}@' @ 115878 : 1
+2023/08/26-17:11:03.727 a28 Compacting 1@1 + 1@2 files
+2023/08/26-17:11:03.783 a28 Generated table #18@1: 27274 keys, 1687407 bytes
+2023/08/26-17:11:03.784 a28 Compacted 1@1 + 1@2 files => 1687407 bytes
+2023/08/26-17:11:03.786 a28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/26-17:11:03.787 a28 Delete type=2 #15
+2023/08/26-17:11:03.787 a28 Delete type=2 #17
+2023/08/26-17:11:03.787 a28 Manual compaction at level-1 from '\x00\x0c\x03!\x06\x09\xff\xf9\xca\xb5\xc5l}\x05A\x00\x03\x00\x00\x00\x00\x00P}@' @ 115878 : 1 .. (end); will stop at (end)

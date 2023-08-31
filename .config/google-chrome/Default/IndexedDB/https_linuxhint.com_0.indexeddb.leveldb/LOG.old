@@ -1,0 +1,6 @@
+2023/08/26-13:40:40.995 16cf Creating DB /home/devops/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/08/26-13:40:41.009 16cf Reusing MANIFEST /home/devops/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/26-13:40:45.139 16d0 Level-0 table #5: started
+2023/08/26-13:40:45.141 16d0 Level-0 table #5: 4814 bytes OK
+2023/08/26-13:40:45.144 16d0 Delete type=0 #3
+2023/08/26-13:40:45.144 16d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

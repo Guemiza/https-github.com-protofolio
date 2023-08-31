@@ -1,0 +1,71 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "Hewlett-Packard",
+    "Product": "HP EliteBook Revolve 810 G3",
+    "Family": "103C_5336AN G=N L=BUS B=HP S=ELI"
+  },
+  "BIOS": {
+    "Vendor": "Hewlett-Packard",
+    "Version": "M86 Ver. 01.08"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1616"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    256.1
+  ],
+  "Partitions": [
+    244.5,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "260mmx140mm",
+      "Resolution": "1360x768",
+      "Frequency": "59.80"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "Europe/Helsinki",
+  "Install": {
+    "Media": "Ubuntu 22.04.1 LTS \"Jammy Jellyfish\" - Release amd64 (20220809.1)\n",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "12": "console_setup",
+      "16": "wireless",
+      "19": "console_setup",
+      "24": "console_setup",
+      "27": "console_setup",
+      "34": "wireless",
+      "45": "prepare",
+      "55": "partman",
+      "91": "start_install",
+      "96": "timezone",
+      "137": "usersetup",
+      "206": "user_done",
+      "577": "done"
+    }
+  }
+}

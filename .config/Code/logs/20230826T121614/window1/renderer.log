@@ -1,0 +1,4 @@
+2023-08-26 12:16:19.828 [info] Started initializing default profile extensions in extensions installation folder. file:///home/devops/.vscode/extensions
+2023-08-26 12:16:21.122 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/devops/.vscode/extensions Unable to create file 'vscode-userdata:/home/devops/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-08-26 12:16:21.123 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/devops/.vscode/extensions
+2023-08-26 12:16:24.704 [info] [perf] Render performance baseline is 90ms

@@ -1,0 +1,14 @@
+2023/08/26-11:51:59.953 170c Creating DB /home/devops/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
+2023/08/26-11:51:59.988 170c Reusing MANIFEST /home/devops/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/26-11:54:13.505 16d2 Level-0 table #5: started
+2023/08/26-11:54:13.519 16d2 Level-0 table #5: 335271 bytes OK
+2023/08/26-11:54:13.526 16d2 Delete type=0 #3
+2023/08/26-12:14:39.837 16d2 Level-0 table #7: started
+2023/08/26-12:14:39.860 16d2 Level-0 table #7: 111536 bytes OK
+2023/08/26-12:14:39.864 16d2 Delete type=0 #4
+2023/08/26-13:06:31.151 16d2 Level-0 table #9: started
+2023/08/26-13:06:31.163 16d2 Level-0 table #9: 120210 bytes OK
+2023/08/26-13:06:31.165 16d2 Delete type=0 #6
+2023/08/26-13:43:24.784 16d0 Level-0 table #11: started
+2023/08/26-13:43:24.789 16d0 Level-0 table #11: 109340 bytes OK
+2023/08/26-13:43:24.792 16d0 Delete type=0 #8

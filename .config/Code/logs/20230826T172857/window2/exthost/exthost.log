@@ -1,0 +1,62 @@
+2023-08-26 17:29:00.680 [info] Extension host with pid 6161 started
+2023-08-26 17:29:00.832 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-26 17:29:00.851 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-26 17:29:01.135 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-26 17:29:01.169 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-26 17:29:01.314 [info] Eager extensions activated
+2023-08-26 17:29:01.316 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-26 17:29:01.394 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:29:01.399 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:29:43.054 [info] ExtensionService#_doActivateExtension vscode.search-result, startup: false, activationEvent: 'onLanguage:search-result'
+2023-08-26 17:29:43.058 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-26 17:29:54.369 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onWalkthrough:copilotWelcome'
+2023-08-26 17:30:23.008 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as Guemiza.
+    at /home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/auth.ts:59:15
+    at process.copilotToken (node:internal/process/task_queues:96:5)
+    at g.forceNormal [as getCopilotToken] (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/auth.ts:99:18)
+    at event (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/session.ts:53:28)
+    at r.value (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/extension.ts:182:46)
+2023-08-26 17:32:22.605 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-26 17:32:22.644 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-26 17:32:22.886 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as Guemiza.
+    at /home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/auth.ts:59:15
+    at process.copilotToken (node:internal/process/task_queues:96:5)
+    at g.forceNormal [as getCopilotToken] (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/auth.ts:99:18)
+    at event (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/session.ts:53:28)
+    at r.value (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/extension.ts:182:46)
+2023-08-26 17:35:57.781 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-26 17:35:59.098 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as Guemiza.
+    at /home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/auth.ts:59:15
+    at process.copilotToken (node:internal/process/task_queues:96:5)
+    at g.forceNormal [as getCopilotToken] (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/auth.ts:99:18)
+    at event (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/session.ts:53:28)
+    at r.value (/home/devops/.vscode/extensions/github.copilot-1.105.350/extension/src/extension.ts:182:46)
+2023-08-26 17:36:11.991 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:12.327 [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github, startup: false, activationEvent: '*'
+2023-08-26 17:36:12.612 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-08-26 17:36:19.995 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-26 17:36:20.043 [error] Canceled: Canceled
+    at new h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:56634)
+    at t.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.N.<computed>.T.charCodeAt.N.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at a.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77241)
+    at a.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at v.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76000)
+    at a.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:77777)
+    at a.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76772)
+    at a.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:76679)
+    at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20977)
+    at r0.reset (/home/devops/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1822:4008)
+    at r0.dispose (/home/devops/.vscode/extensions/github.vscode-pull-request-github-0.70.0/dist/extension.js:1822:4247)
+    at S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11731)
+    at r.Z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9686)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7582
+    at Array.map (<anonymous>)
+    at r.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7570)
+    at r.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7842)
+    at s.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1506)
+    at C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32254)
+    at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28679)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-08-26 17:36:20.090 [info] Extension host with pid 6161 exiting with code 0

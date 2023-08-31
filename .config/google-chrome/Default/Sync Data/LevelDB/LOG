@@ -1,0 +1,24 @@
+2023/08/26-16:44:03.063 a70 Reusing MANIFEST /home/devops/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/26-16:44:03.068 a70 Recovering log #10
+2023/08/26-16:44:03.073 a70 Reusing old log /home/devops/.config/google-chrome/Default/Sync Data/LevelDB/000010.log 
+2023/08/26-16:44:10.774 a34 Level-0 table #14: started
+2023/08/26-16:44:10.782 a34 Level-0 table #14: 107228 bytes OK
+2023/08/26-16:44:10.788 a34 Delete type=0 #10
+2023/08/26-16:55:21.217 a34 Level-0 table #16: started
+2023/08/26-16:55:21.229 a34 Level-0 table #16: 124133 bytes OK
+2023/08/26-16:55:21.232 a34 Delete type=0 #13
+2023/08/26-16:55:21.232 a34 Compacting 4@0 + 1@1 files
+2023/08/26-16:55:21.238 a34 Generated table #17@0: 100 keys, 25087 bytes
+2023/08/26-16:55:21.238 a34 Compacted 4@0 + 1@1 files => 25087 bytes
+2023/08/26-16:55:21.240 a34 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/26-16:55:21.240 a34 Delete type=2 #14
+2023/08/26-16:55:21.240 a34 Delete type=2 #11
+2023/08/26-16:55:21.240 a34 Delete type=2 #7
+2023/08/26-16:55:21.240 a34 Delete type=2 #16
+2023/08/26-16:55:21.240 a34 Delete type=2 #9
+2023/08/26-17:21:53.506 a28 Level-0 table #19: started
+2023/08/26-17:21:53.520 a28 Level-0 table #19: 132341 bytes OK
+2023/08/26-17:21:53.522 a28 Delete type=0 #15
+2023/08/26-17:46:15.241 a28 Level-0 table #21: started
+2023/08/26-17:46:15.253 a28 Level-0 table #21: 91780 bytes OK
+2023/08/26-17:46:15.257 a28 Delete type=0 #18

@@ -1,0 +1,120 @@
+2023-08-26 17:29:34.301 [info] Getting Manifest... github.copilot
+2023-08-26 17:29:34.320 [info] Installing extension: github.copilot
+2023-08-26 17:29:53.505 [info] Extension signature is verified: github.copilot
+2023-08-26 17:29:53.857 [info] Extracted extension to file:///home/devops/.vscode/extensions/github.copilot-1.105.350: github.copilot
+2023-08-26 17:29:53.873 [info] Renamed to /home/devops/.vscode/extensions/github.copilot-1.105.350
+2023-08-26 17:29:53.875 [info] Extracting extension completed. github.copilot
+2023-08-26 17:29:53.888 [info] Extension installed successfully: github.copilot
+2023-08-26 17:32:35.067 [info] Getting Manifest... ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:32:35.069 [info] Getting Manifest... ms-vscode.azure-account
+2023-08-26 17:32:35.070 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-08-26 17:32:35.070 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-08-26 17:32:35.070 [info] Getting Manifest... ms-vscode.vs-keybindings
+2023-08-26 17:32:35.071 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-08-26 17:32:35.071 [info] Getting Manifest... knisterpeter.vscode-github
+2023-08-26 17:32:35.071 [info] Getting Manifest... ms-azuretools.vscode-azurefunctions
+2023-08-26 17:32:35.072 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2023-08-26 17:32:35.072 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-26 17:32:35.072 [info] Getting Manifest... ms-python.python
+2023-08-26 17:32:35.073 [info] Getting Manifest... github.vscode-pull-request-github
+2023-08-26 17:32:35.073 [info] Getting Manifest... ms-toolsai.jupyter
+2023-08-26 17:32:35.546 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:32:35.689 [info] Installing extension: github.vscode-pull-request-github
+2023-08-26 17:32:35.689 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-08-26 17:32:35.690 [info] Installing extension: ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:32:35.690 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:32:35.690 [info] Installing extension: ms-azuretools.vscode-docker
+2023-08-26 17:32:35.690 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+2023-08-26 17:32:35.691 [info] Installing extension: ms-azuretools.vscode-azurefunctions
+2023-08-26 17:32:35.691 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-azurefunctions
+2023-08-26 17:32:35.691 [info] Installing extension: ms-vscode.azure-account
+2023-08-26 17:32:35.691 [info] Installing the extension without checking dependencies and pack ms-vscode.azure-account
+2023-08-26 17:32:35.692 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-08-26 17:32:35.692 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2023-08-26 17:32:35.693 [info] Installing extension: ms-vscode.vs-keybindings
+2023-08-26 17:32:35.693 [info] Installing the extension without checking dependencies and pack ms-vscode.vs-keybindings
+2023-08-26 17:32:35.694 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-08-26 17:32:35.695 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2023-08-26 17:32:35.696 [info] Installing extension: ms-toolsai.jupyter
+2023-08-26 17:32:35.697 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2023-08-26 17:32:35.697 [info] Installing extension: ms-vscode-remote.remote-containers
+2023-08-26 17:32:35.697 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+2023-08-26 17:32:35.698 [info] Installing extension: knisterpeter.vscode-github
+2023-08-26 17:32:35.698 [info] Installing the extension without checking dependencies and pack knisterpeter.vscode-github
+2023-08-26 17:32:35.699 [info] Installing extension: ms-python.python
+2023-08-26 17:32:35.699 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-08-26 17:32:35.700 [info] Installing extension: ms-python.vscode-pylance
+2023-08-26 17:32:35.700 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-08-26 17:32:35.700 [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:32:35.700 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:33:02.441 [info] Extension signature is verified: ms-toolsai.jupyter-keymap
+2023-08-26 17:33:02.482 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2023-08-26 17:33:02.503 [info] Renamed to /home/devops/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2023-08-26 17:33:02.507 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-08-26 17:33:02.522 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-08-26 17:33:10.787 [info] Extension signature is verified: ms-vscode.vs-keybindings
+2023-08-26 17:33:10.803 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-vscode.vs-keybindings-0.2.1: ms-vscode.vs-keybindings
+2023-08-26 17:33:10.816 [info] Renamed to /home/devops/.vscode/extensions/ms-vscode.vs-keybindings-0.2.1
+2023-08-26 17:33:10.819 [info] Extracting extension completed. ms-vscode.vs-keybindings
+2023-08-26 17:33:10.827 [info] Extension installed successfully: ms-vscode.vs-keybindings
+2023-08-26 17:33:24.961 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:33:25.098 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-ceintl.vscode-language-pack-fr-1.81.2023081609: ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:33:25.111 [info] Renamed to /home/devops/.vscode/extensions/ms-ceintl.vscode-language-pack-fr-1.81.2023081609
+2023-08-26 17:33:25.116 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:33:25.128 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:33:25.299 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
+2023-08-26 17:33:30.624 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-08-26 17:33:30.756 [info] Extracted extension to file:///home/devops/.vscode/extensions/github.vscode-pull-request-github-0.70.0: github.vscode-pull-request-github
+2023-08-26 17:33:30.771 [info] Renamed to /home/devops/.vscode/extensions/github.vscode-pull-request-github-0.70.0
+2023-08-26 17:33:30.778 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-08-26 17:33:30.788 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-08-26 17:33:37.105 [info] Extension signature is verified: ms-azuretools.vscode-docker
+2023-08-26 17:33:37.123 [info] Extension signature is verified: ms-vscode.azure-account
+2023-08-26 17:33:37.375 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-vscode.azure-account-0.11.5: ms-vscode.azure-account
+2023-08-26 17:33:37.389 [info] Renamed to /home/devops/.vscode/extensions/ms-vscode.azure-account-0.11.5
+2023-08-26 17:33:37.392 [info] Extracting extension completed. ms-vscode.azure-account
+2023-08-26 17:33:37.405 [info] Extension installed successfully: ms-vscode.azure-account
+2023-08-26 17:33:37.417 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0: ms-azuretools.vscode-docker
+2023-08-26 17:33:37.424 [info] Renamed to /home/devops/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0
+2023-08-26 17:33:37.435 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-08-26 17:33:37.444 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-08-26 17:33:40.530 [info] Extension signature is verified: knisterpeter.vscode-github
+2023-08-26 17:33:41.181 [info] Extracted extension to file:///home/devops/.vscode/extensions/knisterpeter.vscode-github-0.30.7: knisterpeter.vscode-github
+2023-08-26 17:33:41.201 [info] Renamed to /home/devops/.vscode/extensions/knisterpeter.vscode-github-0.30.7
+2023-08-26 17:33:41.203 [info] Extracting extension completed. knisterpeter.vscode-github
+2023-08-26 17:33:41.212 [info] Extension installed successfully: knisterpeter.vscode-github
+2023-08-26 17:33:43.936 [info] Extension signature is verified: ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:33:44.125 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-azuretools.vscode-azureresourcegroups-0.7.5: ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:33:44.154 [info] Renamed to /home/devops/.vscode/extensions/ms-azuretools.vscode-azureresourcegroups-0.7.5
+2023-08-26 17:33:44.157 [info] Extracting extension completed. ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:33:44.166 [info] Extension installed successfully: ms-azuretools.vscode-azureresourcegroups
+2023-08-26 17:33:47.103 [info] Extension signature is verified: ms-vscode-remote.remote-containers
+2023-08-26 17:33:47.349 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-vscode-remote.remote-containers-0.304.0: ms-vscode-remote.remote-containers
+2023-08-26 17:33:47.365 [info] Renamed to /home/devops/.vscode/extensions/ms-vscode-remote.remote-containers-0.304.0
+2023-08-26 17:33:47.376 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2023-08-26 17:33:47.392 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2023-08-26 17:35:21.998 [info] Extension signature is verified: ms-azuretools.vscode-azurefunctions
+2023-08-26 17:35:22.629 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-azuretools.vscode-azurefunctions-1.12.4: ms-azuretools.vscode-azurefunctions
+2023-08-26 17:35:22.646 [info] Renamed to /home/devops/.vscode/extensions/ms-azuretools.vscode-azurefunctions-1.12.4
+2023-08-26 17:35:22.651 [info] Extracting extension completed. ms-azuretools.vscode-azurefunctions
+2023-08-26 17:35:22.661 [info] Extension installed successfully: ms-azuretools.vscode-azurefunctions
+2023-08-26 17:35:25.289 [info] Extension signature is verified: ms-toolsai.jupyter-renderers
+2023-08-26 17:35:25.326 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-08-26 17:35:25.985 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17: ms-toolsai.jupyter-renderers
+2023-08-26 17:35:26.005 [info] Renamed to /home/devops/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2023-08-26 17:35:26.010 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-08-26 17:35:26.036 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-08-26 17:35:26.205 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64: ms-toolsai.jupyter
+2023-08-26 17:35:26.215 [info] Renamed to /home/devops/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64
+2023-08-26 17:35:26.226 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-08-26 17:35:26.259 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-08-26 17:36:02.012 [info] Extension signature is verified: ms-python.python
+2023-08-26 17:36:05.768 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-08-26 17:36:05.841 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-python.python-2023.14.0: ms-python.python
+2023-08-26 17:36:05.863 [info] Renamed to /home/devops/.vscode/extensions/ms-python.python-2023.14.0
+2023-08-26 17:36:05.879 [info] Extracting extension completed. ms-python.python
+2023-08-26 17:36:05.895 [info] Extension installed successfully: ms-python.python
+2023-08-26 17:36:10.919 [info] Extracted extension to file:///home/devops/.vscode/extensions/ms-python.vscode-pylance-2023.8.40: ms-python.vscode-pylance
+2023-08-26 17:36:10.939 [info] Renamed to /home/devops/.vscode/extensions/ms-python.vscode-pylance-2023.8.40
+2023-08-26 17:36:10.942 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-26 17:36:10.968 [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,5 @@
+2023-08-26 17:36:23.468 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-08-26 17:36:34.114 [info] [perf] Render performance baseline is 59ms
+2023-08-26 17:36:34.905 [error] [Extension Host] [ERROR] [default] [2023-08-26T16:36:34.903Z] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as Guemiza."
