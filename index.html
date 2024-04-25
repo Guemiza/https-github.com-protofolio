@@ -239,6 +239,7 @@ Microsoft Certified: Security, Compliance, and Identity Fundamentals</div>
                         <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
                         <div>+216 54 986 363 </div>
                     </div>
+
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
                         <!-- Make sure to change the email address in BOTH the anchor text and the link target below!-->
@@ -250,8 +251,14 @@ amel.guemiza@EPISOUSSE.COM.TN</a>
         </section>
         <!-- Footer-->
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Copyright © 2024</div></div>
+            <div class="container">
+                <div class="small text-center text-muted">
+                    Nombre de visites : <span id="viewCount">Chargement...</span>
+                </div>
+                <div class="small text-center text-muted">Copyright © 2024</div>
+            </div>
         </footer>
+        
         <!-- Bootstrap core JS-->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -259,6 +266,21 @@ amel.guemiza@EPISOUSSE.COM.TN</a>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
         <!-- Core theme JS-->
+        <p> <span id="viewCount">Chargement...</span></p>
+
+        <script>
+            fetch('https://api.countapi.xyz/hit/amel-guemiza.netlify/visits')
+              .then(response => response.json())
+              .then(data => {
+                document.getElementById('viewCount').innerText = data.value;
+              })
+              .catch(error => {
+                console.error('Erreur de chargement du compteur de visites:', error);
+                document.getElementById('viewCount').innerText = 'Erreur';
+              });
+            </script>
+            
+            
         <script src="js/scripts.js"></script>
     </body>
 </html>
