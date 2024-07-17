@@ -1,0 +1,43 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  DOCKER_IMAGE: "amelgm/abajim" 
+
+before_script:
+  - docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
+
+build:
+  stage: build
+  script:
+    - docker build -t $DOCKER_IMAGE:$CI_COMMIT_SHORT_SHA .
+    - docker tag $DOCKER_IMAGE:$CI_COMMIT_SHORT_SHA $DOCKER_IMAGE:latest
+
+test:
+  stage: test
+  script:
+    - echo "Starting services..."
+    - docker-compose up -d # Démarre les services définis dans docker-compose.yml
+    - echo "Waiting for services to be ready..."
+    - sleep 30 # Attendre que les services soient démarrés
+    - echo "Running application tests..."
+    - curl -f http://localhost:your_port # Remplacez par l'URL de votre application
+    - echo "Fetching logs for debugging..."
+    - docker-compose logs # Affiche les logs des services
+    - echo "Tests passed."
+    - docker-compose down # Arrête et supprime les conteneurs
+
+
+deploy:
+  stage: deploy
+  script:
+    - docker push $DOCKER_IMAGE:$CI_COMMIT_SHORT_SHA
+    - docker push $DOCKER_IMAGE:latest
+  only:
+    - main
+    - develop
+    - /^release-.*$/
+
+

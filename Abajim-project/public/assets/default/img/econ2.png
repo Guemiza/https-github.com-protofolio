@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CNP : Centre National Pédagogique</title>
+<meta name= "description" content= "Entreprise publique à caractère industriel et commercial qui a pour principales missions l'édition et la diffusion des manuels scolaires et des outils pédagogiques éducatifs et l'importation d'équipement scientifique" />
+<meta name="keywords" content="centre national pédagogique, cnp, manuel scolaire, documents pédagogiques, supports éducatifs, , documents maîtres, agences cnp, rentrée scolaire" />
+<!-- <meta name="robots" content="index,follow" /> --> 
+<meta name= "robots" content= "noarchive" />
+<link rel="shortcut icon" href="images/favicon.png" />
+<link rel="icon" type="image/x-icon" href="images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
+
+<link type="text/css" rel="stylesheet" href="css/reset.css" />
+<link type="text/css" rel="stylesheet" href="css/ar_fonts.css" media="all" />
+<link type="text/css" rel="stylesheet" href="css/menu.css" />
+<link type="text/css" rel="stylesheet" href="css/style.css" media="all" />
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"  />
+
+
+<script type="text/javascript" src="js/stmenu.js"></script>
+<script type="text/javascript" src="js/popUp.js"></script>
+    <script src="../langue/jquery.min.js"></script>
+	<script src="../langue/languageswitcher.js"></script>
+   	<link rel="stylesheet" href="../langue/languageswitcher.css">
+	
+<link type='text/css' href='css/reveal.css' rel='stylesheet' media='screen' /> 
+<link type="text/css" rel="stylesheet" href="css/tableau.css" media="all" />  
+</head>
+
+<body onload="addFooter()">
+
+<!------>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29200164-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!------>
+
+
+
+<div id="content">
+	<div class="head">
+    <img src="images/cnp_head_logo.jpg" width="960" height="105" alt="CNP : Centre National Pédagogique"  />
+    </div>
+	<div class="warp"></div>
+	<div class="nav">
+	<div class="right">
+      <!--MENU-->
+    <div id="nav">
+    <script type="text/javascript" src="js/menu.js"></script>
+
+	</div><!--END MENU-->
+ </div><!--END right-->
+<div class="clear"></div>
+</div><!--END nav-->
+<div id="contenu">
+    <div class="top">
+    	<div id="country-select">
+  <form>
+    <select id="country-options" name="country-options">
+	  <option selected="selected" title="../french/index.htm" value="fr">Français</option>
+      <option title="../arabic/index.htm" value="ar">عربي</option>
+      <option  title="../UnderConstructionEn.htm" value="us">English</option>
+    </select>
+  </form>
+
+</div>
+    </div>
+	<!--fin div top-->
+        <div style="margin:29px 10px 10px 15px ; float:left; width:688px">
+<div class="bilan">
+		<div class="title_B">
+			  <h2>Actualités</h2>
+		</div>
+		<div class="tann">
+          <div style="float:left; margin:5px; border:1px solid #dfdfdf;">
+          <img src="../images/Actualites1.png" width = "120" height = "120" alt="News" /></div>
+         <div style="margin:5px; float:left; width:500px;">
+		 <ul>
+			<li><a href="../docacces/annonces/demdCandidature3.pdf" target="_blank">Appel à candidatures pour la rédaction des manuels parascolaire "ارافق طفلي"</li>
+			<li><a href="../docacces/actualites/Actu-22052023.pdf" target="_blank">Le forum national : rentrée scolaire 2023-2024</a><img src="../images/newbb.gif" width = "80" height = "80" align = "right"/></li>
+			
+			
+								
+			
+			
+			
+			<!--
+			<li><a href="../docacces/actualites/Actu-17052023.pdf" target="_blank">Le forum national : rentrée scolaire 2023-2024</a><img src="../images/newbb.gif" width = "80" height = "80" align = "right"/>
+			<br>
+			<a href="../docacces/actualites/Actu-17052023.pdf" target="_blank"><img src="../images/rentre2023.jpg" width = "400" height = "100" align = "center"/></a>
+			</li>
+			<li><a href="../docacces/annonces/Avis-fr-02-2023.pdf" target="_blank">Avis d'appel d'offres N° 02 - 2023</a><img src="../images/newbb.gif" width = "80" height = "80" align = "right"/></li>
+			<li><a href="../docacces/annonces/CC-AO-02-2023.pdf" target="_blank">Téléchargement du cahier des charges de l'appel d'offres N° 02/2023 - Le choix d’un avocat de formation générale ou un cabinet professionnel d’avocats pour représenter le Centre National Pédagogique auprès des tribunaux et autres instances judiciaires
+pour les années 2023 – 2024 - 2025 </a></li>
+			<li><a href="../arabic/PDF/541608P00.pdf" target="_blank">Guide enseignant Anglais 6ème année</a></li> 	
+			<li><a href="../docacces/annonces/retourMan.pdf" target="_blank">Retour des manuels scolaires</a></li>
+			<li><a href="../docacces/concours/resultatfinalconcours.pdf" target="_blank">النتائج النهائيّة للمناظرة الخارجيّة للمركز الوطني البيداغوجي</a> <img src="../images/newbb.gif" width = "80" height = "80" align = "right"/></li>
+			<li><a href="../docacces/concours/avisconcours.pdf" target="_blank">Avis concours de recrutement</a></li>
+			<li><a href="../docacces/annonces/Avis-fr-10-2022.pdf" " target="_blank">Avis consultation n°10/2022 - Désignation d'un réviseur aux comptes du CNP pour les années 2022-2023-2024</a> </li>
+			<li><a href="../docacces/annonces/AvisAgFr.pdf" " target="_blank">Annonce de la fermeture des agences régionales du centre</a></li>
+			<li><a href="../arabic/PDF/521326P00.pdf" target="_blank">J’apprends le français - Je joue et je projette - Guide méthodologique 3ème année de l’enseignement de base</a></li>
+			
+			<li><a href="../arabic/PDF/ErrataLect.pdf" target="_blank">Errata manuel de lecture français troisième année primaire</a></li>
+			<li><a href="../arabic/PDF/ErrataActi.pdf" target="_blank">Errata cahier d’activités français troisième année primaire</a></li>		
+			<li><a href="../docacces/concours/resultat6concours.pdf" target="_blank">نتائج الترتيب الأولي للمترشحين بخصوص المناظرة الخارجية (القائمة السادسة) </a> </li>
+			<li><a href="../docacces/annonces/demdCandidature2.pdf" target="_blank">Appel à la candidature pour écrire les contenus de la série "أرافق طفلي" pour la deuxième fois</a></li>
+			<li><a href="../arabic/formulaires/talabiaeleve.pdf" target="_blank">Nouveauté 2022/2023 Formulaire destiné à l'élève</a></li>
+			<li><a href="#" data-reveal-id="couverture5">annonce concernant la vente des manuels scolaires</a>	
+			<li><a href="../docacces/annonces/Résultat05-2022.pdf" target="_blank">Résultat de la consultation N°05/2022 pour l'acquisition des cartouches d'encre</a>  </li>
+			<li><a href="../docacces/annonces/3083.pdf" target="_blank">Appel à la candidature pour la désignation des équipes d'impression des manuels scolaires pour les élèves malvoyants -rentrée scolaire 2022-2023 </a>  </li>
+			<li><a href="../docacces/annonces/avis-report-fr-04-2022.pdf" target="_blank">Avis de report consultation n°04/2022 - Désignation d'un réviseur aux comptes du CNP pour les années 2022-2023-2024</a>  </li>
+			<li><a href="../docacces/annonces/avis-fr-03-2022.pdf" target="_blank">Avis d'appel d'offres international n°03/2022 - Impression, reliure et finition des livres scolaires 2022</a>  </li>
+			
+			
+			<li><a href="../docacces/annonces/1757.pdf" target="_blank">Avis d'appel à la candidature pour réaliser des images et des dessins pour des manuels scolaires</a> <img src="../images/newbb.gif" width = "80" height = "80" align = "right"/>  </li>
+			<li><a href="../docacces/annonces/avisconsultations.pdf" target="_blank">Résultats des consultations</a> </li>
+		 <li><a href="#" data-reveal-id="passCovid">Avis concernant le passe sanitaire contre le virus COVID-19</a></li>
+		  
+<li><a href="../docacces/annonces/4649.pdf" target="_blank">Annonce aux libraires</a> </li>		  -->
+			<!-- <img src="../images/newbb.gif" width = "80" height = "80" align = "right"/> </li>-->
+			<!--<li><a href="../docacces/concours/resultat1concours.pdf" target="_blank">نتائج الترتيب الأولي للمترشحين بخصوص المناظرة الخارجية</a>  <img src="../images/newbb.gif" width = "80" height = "80" align = "right"/> </li>-->
+			
+			<!-- <li><a href="../arabic/annee-actuelle/agence/agliv.htm" target="_blank">Vente des manuels scolaires pour la rentrée 2021-2022</a></li> -->
+		 </ul>
+         	
+          </div>  <div class="clear"></div> 
+          </div>
+<div class="clear"></div>
+
+	</div> 
+
+<!--<div class="bilan">
+		<div class="title_C">
+			  <h2>Candidature "أرافق طفلي"</h2>
+		</div>
+		<div class="texte1">
+        
+         <div style="margin:5px; float:left; width:600px;">
+		 <ul>
+			<li><a href="#" data-reveal-id="couverture4">"أرافق طفلي" première et deuxième partie</a></li>
+			<li><a href="#" data-reveal-id="annonce">Annonce</a></li>
+			<li><a href="../docacces/annonces/demdCandidature.pdf" target="_blank">Appel à la candidature pour écrire les contenus de la série "أرافق طفلي"</a></li>
+			<li><a href="../docacces/annonces/cahierDesCharges.pdf" target="_blank">Téléchargement du cahier des charges "أرافق طفلي" </a></li>
+				
+		 </ul>
+         	
+          </div>  <div class="clear"></div> 
+          </div>
+<div class="clear"></div>
+
+	</div> -->
+
+
+
+
+
+
+<div class="definition">
+			<div class="title_R">
+			  <h2>Espace Libraires</h2>
+			</div>
+          <div class="texte1">
+          <div style="float:left; margin:5px; border:1px solid #dfdfdf;"><img src="images/camion.png" width="128" height="128" alt="espace libraire"  /></div>
+         <div style="margin:5px; float:right; width:170px;">
+         	<ul>
+				<li><a href="../arabic/formulaires/retourLib.pdf" target="_blank">Demande retour manuel obsolète</a></li>
+				<li><a href="../arabic/formulaires/talabiaeleve.pdf" target="_blank">Formulaire destiné à l'élève 2022-2023</a></li>
+				<li><a href="../arabic/formulaires/CarteClient.pdf" target="_blank">Nouveau formulaire client</a></li>
+			
+			
+	      
+		  
+		  <!--<li><a href="/CNP1/web/french/libraires/authentification.jsp">Préparer un devis</a></li>
+	       
+		  
+           
+		  <li><a href="../arabic/formulaires/talabiamaitre.pdf" target="_blank">Form. des manuels destinés à l'enseignant</a></li> 
+		    -->
+            </ul>
+          </div>  <div class="clear"></div> 
+          </div>
+<div class="clear"></div>
+        </div>
+<div class="activite">
+			<div class="title">
+			  <h2>Manuels scolaires </h2>
+			</div>
+          <div class="texte1">
+          <div style="float:left; margin:3px; width:130px; height:120px;"><img src="images/livres.png" alt="nouveautés rentrée scolaire "/></div>
+            <div style="margin:3px; float:right; width:180px;">
+			<ul>
+				<li><a href="annee-actuelle/listeOfficielle.htm">La liste officielle des manuels scolaires</a></li>
+	      		<li><a href="manuels-scolaires/22-23/22-23.htm">Rentrée scolaire 2022 - 2023</a></li>
+				
+	      		
+          </ul>
+               
+            <div class="clear"></div></div>
+          </div>
+<div class="clear"></div>
+</div>
+
+
+ 
+
+
+		<div class="clear"></div>
+<div style="float:left; width:688px;">
+<div class="definition">
+	<div class="title_O">
+			  <h2>Téléchargement</h2>
+		</div>
+          <div class="texte1">
+          <div style="float:left; margin:5px; width:140px;"><img src="images/png-0050.png" /></div>
+          <div style="margin:10px; float:right; width:150px;"><p style="color:#0b3366;text-decoration:none;direction:ltr;">
+          <ul>
+		   <!-- <li><a href="acces-info.htm">Accès à l'information</a></li> -->
+          <li><a href="services-vente/vDocuments.htm">Les formulaires administratifs</a></li>
+		  <li><a href="../../CNP1/web/french/biblio/man-eleves.jsp">Les livres et Les documents éducatifs</a></li>
+          </ul>
+          </p></div>
+           
+           <div class="clear"></div>
+          </div>
+	<div class="clear"></div>
+      </div>
+
+  <div class="activite">
+			<div class="title_V">
+			  <h2>Accès à l’information </h2>
+		</div>
+        <div class="texte1">
+		<div style="float:left; margin:3px; width:130px; height:120px;"><img src="../arabic/images/accesinfo.jpg" width="128" height="128" alt="bilan-comptable" /></div>
+            <div style="margin:3px; float:right; width:180px;">
+			
+				<ul>
+				<li><a href="acces-info.htm">Accès à l’information</a></li>
+				<li><a href="accesinfo/activitecnp.htm">Les rapports d’activité</a><img src="../images/newFR.gif" width = "40" height = "20" align = "right"/></li>
+				<li><a href="accesinfo/bilancnp.htm">Les bilans</a><img src="../images/newFR.gif" width = "40" height = "20" align = "right"/></li>		  
+				<li><a href="accesinfo/offrescnp.htm">Les appels d'offres </a></li>
+				<li><a href="accesinfo/auditcnp.htm">Les rapports des états financiers</a><img src="../images/newFR.gif" width = "40" height = "20" align = "right"/></li>
+			</ul>
+			<div class="clear"></div></div>
+        
+      </div>
+        </div> 
+<!--fin div activite-->	  
+
+
+
+      <div class="clear"></div>
+ </div>   
+
+</div>
+<div id="New" class="reveal-modal">
+<p class="ss_titre">Les nouveaux manuels</p>
+<table width="90%" border="1">
+  <tr> 
+    <th width="36%" rowspan="2">Niveau</th>
+    <th colspan="3">Nouveaux manuels</th>
+  </tr>
+   <tr>
+  	<th width="20%">Code</th> 
+    <th width="20%">Titre</th> 
+    <th width="60%">Lien</th>    
+  </tr>
+   <tr class="tr_content">
+  <td rowspan="3">1ère année de base</td>
+    <td>101110</td>
+    <td>لقراءة</td>
+    <td><a href = "../arabic/PDF/101110P00.pdf" target="_blank">Téléchargement</a></td>
+  </tr>
+  <tr class="tr_content">
+  
+    <td>101111</td> 
+    <td>التمارين</td>	
+    <td><a href = "../arabic/PDF/101111P00.pdf" target="_blank">Téléchargement</a></td>
+  </tr>
+  <tr class="tr_content">
+  
+    <td>102105</td>   
+	<td>الرياضيات</td>
+	<td><a href = "../arabic/PDF/102105P01.pdf" target="_blank">Partie 1</a><br/><a href = "../arabic/PDF/102105P02.pdf" target="_blank">Partie 2</a></td>
+  </tr>
+   <tr class="tr_content">
+  <td rowspan="3">2ème  année de base</td>
+    <td>101215</td>
+    <td>لقراءة</td>
+    <td><a href = "../arabic/PDF/101215P00.pdf" target="_blank">Téléchargement</a></td>
+  </tr>
+  <tr class="tr_content">
+  
+    <td>101216</td> 
+    <td>التمارين</td>	
+    <td><a href = "../arabic/PDF/101216P00.pdf" target="_blank">Téléchargement</a></td>
+  </tr>
+  <tr class="tr_content">
+  
+    <td>102210</td>   
+	<td>الرياضيات</td>
+	<td><a href = "../arabic/PDF/102210P00.pdf" target="_blank">Téléchargement</a></td>
+  </tr>
+</table>
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div> 
+
+<div id="New-Ens" class="reveal-modal">
+<p class="ss_titre" style="text-align:center">Les nouveaux manuels</p>
+<table width="90%" border="1">
+   <tr>  	 
+    <th width="40%">Titre</th> 
+    <th width="25%">Lien</th>    
+   </tr>
+   <tr class="tr_content"> 
+    	<td>Curriculum of English - 4ème année primaire</td>
+		<td><a href = "../arabic/PDF/CurriculumOFENGLISH.pdf" target="_blank">Téléchargement</a></td> 
+    </tr>
+   <tr class="tr_content"> 
+    	<td>Curriculum de français - 2ème année primaire</td>
+		<td><a href = "../arabic/PDF/Curriculumdefrançais.pdf" target="_blank">Téléchargement</a></td> 
+    </tr>  
+    <tr class="tr_content"> 
+    	<td>Guide de l’enseignant - 2ème année primaire</td>
+    	<td><a href = "../arabic/PDF/Guidefrançais.pdf" target="_blank">Téléchargement</a></td>   
+    </tr>  
+  
+  </table>
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup covid--> 
+<div id="passCovid" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../images/pass_covid.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>  
+<!--Popup img1--> 
+<div id="couverture1" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../images/couv.jpg" width="100%"  />
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup img2--> 
+<div id="couverture2" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../images/couv1.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup img3--> 
+<div id="couverture3" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../images/couv3.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup img5--> 
+<div id="couverture5" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../docacces/annonces/vente.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup img4--> 
+<div id="couverture4" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../images/couv4.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup AvAgFr--> 
+<div id="AvAgFr" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../images/AvisAgFr.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+<!--Popup annonce--> 
+<div id="annonce" class="reveal-modal">
+<table width="90%" border="1">
+<img src="../docacces/annonces/avis.jpg"  width="100%"/>
+
+  </table>
+
+<a class="close-reveal-modal"><img src="images/close.png" alt="close" /></a>
+</div>
+    
+<!--     <div class="annonce">
+	  <div class="title_org">
+			  <h2>La bonne gouvernance </h2>
+			</div>
+	  <div class="texte1" align = "center">
+	    <a href="bonne-gouvernance.htm"><img src="images/bgouvFr.png" width="140" height="142" alt=" La cellule de bonne gouvernance " /></a>
+        
+      </div>
+
+<div class="clear"></div>
+     </div>  -->
+    
+    <div class="annonce">
+	  <div class="title_lutiles">
+			  <h2>Liens utiles</h2>
+	  </div>
+	  <div class="texte1">
+	    <ul>
+          <li><a href="http://www.education.gov.tn" target="_blank">Ministère de l'éducation</a></li>
+          <li><a href="http://www.ecole.edunet.tn" target="_blank">فضاء رقمي للمراجعة و التدارك</a></li>
+	      <li><a href="http://www.mes.tn" target="_blank">Ministère de l'Enseignement Supérieur et de la Recherche   Scientifique</a></li>
+	      
+	     
+       </ul>
+        
+      </div>
+
+<div class="clear"></div>
+    </div>
+	<!--fin div annonce-->
+    <div class="lutiles">
+	  <div class="title_annonce">
+			  <h2>Suivez le CNP sur Facebook</h2>
+	  </div>
+	  <div class="texte1">
+	
+       <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FCNPtunisie&amp;send=false&amp;layout=standard&amp;width=190&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=150" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:190px; height:150px;" allowTransparency="true"></iframe> 
+      </div>
+
+<div class="clear"></div>
+    </div>
+<!--fin div lutiles-->
+<div class="clear"></div>
+<div>
+<iframe width="100%" height="100" id="gmap_canvas" src="https://maps.google.com/maps?q=Centre%20Pedagogique,%20Avenue%20Ali%20Trad,%20Tunis,%20Tunisie&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+   
+<div class="main_footer" id="footer">
+ </div> 
+    <script type='text/javascript' src='js/jquery.reveal.js'></script>
+<script type='text/javascript' src='js/jquery-1.6.min.js'></script>  
+<div> 
+</div>
+	
+    </div>
+<!--fin contenu-->
+</div>
+<!--fin content-->
+
+
+
+
+</body>
+</html>	
+
